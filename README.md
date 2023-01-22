@@ -1,2 +1,1 @@
-# first
-first commit
+dice game
